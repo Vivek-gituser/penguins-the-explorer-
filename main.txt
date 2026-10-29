@@ -1,1 +1,3 @@
 this is my frst code
+this is the code that is written by vivek on vs code and 
+now im gonna push it  to the main repo and merge it
